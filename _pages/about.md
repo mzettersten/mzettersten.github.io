@@ -16,7 +16,7 @@ news: false
 social: true
 ---
 
-<div class="col-md-8" markdown="1">
+<div class="col-md-4" markdown="1">
   
 I am a postdoctoral research associate in the [Department of Psychology](https://psych.princeton.edu/){:target="\_blank"} at Princeton University. I work in the [Princeton Baby Lab](https://babylab.princeton.edu/){:target="\_blank"}. 
 

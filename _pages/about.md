@@ -22,4 +22,4 @@ Before coming to Princeton, I completed my PhD in Cognitive/ Developmental Psych
 
 <strong>I study language - how we learn it and what we do with it.</strong>
 
-<a class="twitter-timeline" href="https://twitter.com/m_zettersten?ref_src=twsrc%5Etfw">Tweets by m_zettersten</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+

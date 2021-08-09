@@ -21,3 +21,5 @@ I am a postdoctoral research associate in the [Department of Psychology](https:/
 Before coming to Princeton, I completed my PhD in Cognitive/ Developmental Psychology in the [Infant Learning Lab](https://infantlearning.waisman.wisc.edu/){:target="\_blank"} at the University of Wisconsin-Madison, working with Jenny Saffran and Gary Lupyan.
 
 <strong>I study language - how we learn it and what we do with it.</strong>
+
+<a class="twitter-timeline" href="https://twitter.com/m_zettersten?ref_src=twsrc%5Etfw">Tweets by m_zettersten</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

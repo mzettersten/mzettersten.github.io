@@ -16,7 +16,9 @@ news: false
 social: true
 ---
 
-<div class="col-md-4" markdown="1">
+<div style="float: right; width:230px; padding-left: 20px;" class="news-tweets">
+<a class="twitter-timeline" data-width="230" data-height="800" href="https://twitter.com/m_zettersten?ref_src=twsrc%5Etfw">Tweets by m_zettersten</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
   
 I am a postdoctoral research associate in the [Department of Psychology](https://psych.princeton.edu/){:target="\_blank"} at Princeton University. I work in the [Princeton Baby Lab](https://babylab.princeton.edu/){:target="\_blank"}. 
 
@@ -24,8 +26,3 @@ Before coming to Princeton, I completed my PhD in Cognitive/ Developmental Psych
 
 <strong>I study language - how we learn it and what we do with it.</strong>
 
-</div>
-
-<div class="col-md-4" markdown="1">
-<a class="twitter-timeline" data-width="300" data-height="800" href="https://twitter.com/m_zettersten?ref_src=twsrc%5Etfw">Tweets by m_zettersten</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>

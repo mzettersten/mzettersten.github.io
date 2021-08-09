@@ -5,7 +5,7 @@ title: <strong>Martin</strong> Zettersten
 description: <a href="">Postdoctoral Research Associate. Princeton Baby Lab. Department of Psychology. Princeton University.</a>
 
 profile:
-  align: right
+  align: left
   image: martin_square.jpg
 <!--   address: >
     <p>555 your office number</p>
@@ -16,7 +16,7 @@ news: false
 social: true
 ---
 
-<div style="float: left; width:230px; padding-left: 20px;" class="news-tweets">
+<div style="float: right; width:150px; padding-left: 20px;" class="news-tweets">
 <a class="twitter-timeline" data-width="230" data-height="400" href="https://twitter.com/m_zettersten?ref_src=twsrc%5Etfw">Tweets by m_zettersten</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
   

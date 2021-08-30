@@ -12,9 +12,9 @@ Wojcik, E., **Zettersten, M.**, &  Benitez, V. (under review). <span style="colo
 
 **Zettersten, M.\***, Weaver, H.\*, & Saffran, J. (Stage 1 registered report, under review).  <span style="color: #00ab37">Becoming word meaning experts: Infants’ processing of familiar words in the context of typical and atypical exemplars.</span>  \*equal authorship <a href="https://osf.io/3t8gf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/lwl_typ_animals" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
 
-Koranda, M., **Zettersten, M.**, & McDonald, M. (under revision). <span style="color: #00ab37">Good-enough production: Selecting easier words instead of more accurate ones.</span> <a href="https://osf.io/3svge/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/word-choice" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+Koranda, M., **Zettersten, M.**, & McDonald, M. (under review). <span style="color: #00ab37">Good-enough production: Selecting easier words instead of more accurate ones.</span> <a href="https://osf.io/3svge/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/word-choice" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
 
-Woodard, K., **Zettersten, M.**, & Pollak, S.D. (under revision). <span style="color: #00ab37">Developmental changes in children’s knowledge of facial configurations.</span> <a href="https://osf.io/7bkgp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/kwoodard2/GRD_material" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+Woodard, K., **Zettersten, M.**, & Pollak, S.D. (under review). <span style="color: #00ab37">Developmental changes in children’s knowledge of facial configurations.</span> <a href="https://osf.io/7bkgp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/kwoodard2/GRD_material" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
 
 **Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">When and how active information-seeking helps word learning: Children actively select input tuned to past experience in service of learning new words. </span>
 

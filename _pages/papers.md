@@ -20,11 +20,11 @@ Koranda, M., **Zettersten, M.**, & McDonald, M. (under review). <span style="col
 
 #### **IN PRESS**
 
-Woodard, K., **Zettersten, M.**, & Pollak, S.D. (accepted). [<span style="color: #00ab37">The representation of emotion knowledge across development.</span>](https://mzettersten.github.io/assets/pdf/Woodard_Zettersten_Pollak_2021.pdf) *Child Development*. <a href="https://doi.org/10.1111/cdev.13716 " target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/7bkgp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/kwoodard2/GRD_material" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-
 Visser, I., Bergmann, C., Byers-Heinlein, K., Dal Ben, R., Duch, W., Forbes, S., Franchin, L., Frank, M. C., Geraci, A., Hamlin, J. K., Kaldy, Z., Kulke, L., Laverty, C., Lew-Williams, C., Mateu, V., Mayor, J., Moreau, D., Nomikou, I., Schuwerk, T., Simpson, E. A., Singh, L., Soderstrom, M., Sullivan, J., van den Heuvel, M. I., Westermann, G., Yamada, Y., Zaadnoordijk, L., **Zettersten, M.** (in press). <span style="color: #00ab37">Improving the generalizability of infant psychological research: The ManyBabies model.</span> *Behavioral and Brain Sciences*. [commentary on The generalizability crisis, by Tal Yarkoni] [[preprint]](https://psyarxiv.com/8vwbf){:target="\_blank"}
 
 #### **2021**
+
+Woodard, K., **Zettersten, M.**, & Pollak, S.D. (2021). [<span style="color: #00ab37">The representation of emotion knowledge across development.</span>](https://mzettersten.github.io/assets/pdf/Woodard_Zettersten_Pollak_2021.pdf) *Child Development*. <a href="https://doi.org/10.1111/cdev.13716 " target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/7bkgp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/kwoodard2/GRD_material" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
 
 Lupyan, G., & **Zettersten, M.** (2021). <span style="color: #00ab37">Does vocabulary help structure the mind?</span> In Sera, M., & Koenig, M. (Eds.). In Sera, M. D., & Koenig, M. (Eds.). *Minnesota Symposia on Child Psychology: Human Communication: Origins, Mechanisms, and Functions, Volume 40* (pp. 160-199). Hoboken, NJ: John Wiley & Sons. <a href="https://doi.org/10.1002/9781119684527.ch6" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://github.com/mzettersten/vocab-mind-2020" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/b74u9/){:target="\_blank"}
 

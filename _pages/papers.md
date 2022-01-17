@@ -8,13 +8,17 @@ title: papers
 
 #### **IN PREP AND UNDER REVIEW**
 
-Wojcik, E., **Zettersten, M.**, &  Benitez, V. (under review). <span style="color: #00ab37">The map trap: Why and how word learning research should move beyond mapping.</span>
-
 Koranda, M., **Zettersten, M.**, & McDonald, M. (under review). <span style="color: #00ab37">Good-enough production: Selecting easier words instead of more accurate ones.</span> <a href="https://osf.io/3svge/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/word-choice" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/q2h9d){:target="\_blank"}
 
-**Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">When and how active information-seeking helps word learning: Children actively select input tuned to past experience in service of learning new words. </span> 
+Wojcik, E., **Zettersten, M.**, &  Benitez, V. (under review). <span style="color: #00ab37">The map trap: Why and how word learning research should move beyond mapping.</span>
+
+**Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">Children actively select words that support learning. </span> 
 
 **Zettersten, M.**, Bredemann, C., Kaul, M., Vlach, H., Kirkorian, H., & Lupyan, G. (in prep). <span style="color: #00ab37">Nameability supports rule-based category learning in children and adults.</span>
+
+**Zettersten, M.**, Bergey, C. A., Bhatt, N., Boyce, V., Braginsky, M., Carstensen, A., deMayo, B., Handa, K. Kachergis, G., Lewis, M., Long, B., MacDonald, K., Mankewitz, J., Marchman, V., Meylan, S. C., Saleh, A. N., Schneider, R. M., Tsui, A., Uner, S., Xu, T. L., Yurovsky, D., & Frank, M.C. (in prep). Peekbank: An open, large-scale repository for developmental eye-tracking data of children's word recognition. <a href="https://github.com/langcog/peekbank-paper" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+
+Schreiner, M., Bergmann, C., Frank, Michael C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, K., Kartushina, N., Kellier, D.J., Mani, N., Mayor, J., Saffran, J., Shukla, M., Silverstein, P., Soderstrom, M., **Zettersten, M.**, &  Lippold, M. (in prep). Assessing test-retest reliability in infant-directed speech preference measures. <a href="https://osf.io/zeqka/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
 
 #### **ACCEPTED**
 
@@ -30,7 +34,7 @@ Lupyan, G., & **Zettersten, M.** (2021). <span style="color: #00ab37">Does vocab
 
 Santolin, C., Garcia-Castro, G., **Zettersten, M.**, Sebastian-Galles, N., & Saffran, J. (2021). [<span style="color: #00ab37">Experience with research paradigms relates to infants’ direction of preference.</span>](https://mzettersten.github.io/assets/pdf/Santolin_et_al_2021.pdf){:target="\_blank"} *Infancy, 26*(1), 39-46. <a href="https://doi.org/10.1111/infa.12372" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/g95ub/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/gongcastro/Flip" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/xgvbh/){:target="\_blank"}
 
-**Zettersten, M.**, & Saffran, J. (2021). [<span style="color: #00ab37">Sampling to learn words: Adults and children sample words that reduce referential ambiguity.</span>](https://mzettersten.github.io/assets/pdf/Zettersten_Saffran_2020.pdf){:target="\_blank"} *Developmental Science, 24*, e13064. <a href="https://doi.org/10.1111/desc.13064" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/udmvh/?view_only=b9b8a986fd3a4235a073ec35d70a2266" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/crossAct" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+**Zettersten, M.**, & Saffran, J. (2021). [<span style="color: #00ab37">Sampling to learn words: Adults and children sample words that reduce referential ambiguity.</span>](https://mzettersten.github.io/assets/pdf/Zettersten_Saffran_2020.pdf){:target="\_blank"} *Developmental Science, 24*(3), e13064. <a href="https://doi.org/10.1111/desc.13064" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/udmvh/?view_only=b9b8a986fd3a4235a073ec35d70a2266" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/crossAct" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
 
 #### **2020**
 

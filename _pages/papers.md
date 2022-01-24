@@ -10,11 +10,11 @@ title: papers
 
 Wojcik, E., **Zettersten, M.**, &  Benitez, V. (under review). <span style="color: #00ab37">The map trap: Why and how word learning research should move beyond mapping.</span>
 
+**Zettersten, M.**, Bergey, C. A., Bhatt, N., Boyce, V., Braginsky, M., Carstensen, A., deMayo, B., Handa, K. Kachergis, G., Lewis, M., Long, B., MacDonald, K., Mankewitz, J., Marchman, V., Meylan, S. C., Saleh, A. N., Schneider, R. M., Tsui, A.S.T., Uner, S., Xu, T. L., Yurovsky, D., & Frank, M.C. (submitted). <span style="color: #00ab37">Peekbank: An open, large-scale repository for developmental eye-tracking data of children's word recognition.</span> <a href="https://github.com/langcog/peekbank-paper" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/pr6wu/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://psyarxiv.com/tgnzv){:target="\_blank"}
+
 **Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">Children actively select words that support learning. </span> 
 
 **Zettersten, M.**, Bredemann, C., Kaul, M., Vlach, H., Kirkorian, H., & Lupyan, G. (in prep). <span style="color: #00ab37">Nameability supports rule-based category learning in children and adults.</span>
-
-**Zettersten, M.**, Bergey, C. A., Bhatt, N., Boyce, V., Braginsky, M., Carstensen, A., deMayo, B., Handa, K. Kachergis, G., Lewis, M., Long, B., MacDonald, K., Mankewitz, J., Marchman, V., Meylan, S. C., Saleh, A. N., Schneider, R. M., Tsui, A.S.T., Uner, S., Xu, T. L., Yurovsky, D., & Frank, M.C. (in prep). <span style="color: #00ab37">Peekbank: An open, large-scale repository for developmental eye-tracking data of children's word recognition.</span> <a href="https://github.com/langcog/peekbank-paper" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
 
 Schreiner, M., Bergmann, C., Frank, Michael C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, K., Kartushina, N., Kellier, D.J., Mani, N., Mayor, J., Saffran, J., Shukla, M., Silverstein, P., Soderstrom, M., **Zettersten, M.**, &  Lippold, M. (in prep). <span style="color: #00ab37">Assessing test-retest reliability in infant-directed speech preference measures.</span> <a href="https://osf.io/zeqka/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
 

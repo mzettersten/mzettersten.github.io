@@ -8,8 +8,6 @@ title: papers
 
 #### **IN PREP AND UNDER REVIEW**
 
-Koranda, M., **Zettersten, M.**, & McDonald, M. (under review). <span style="color: #00ab37">Good-enough production: Selecting easier words instead of more accurate ones.</span> <a href="https://osf.io/3svge/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/word-choice" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/q2h9d){:target="\_blank"}
-
 Wojcik, E., **Zettersten, M.**, &  Benitez, V. (under review). <span style="color: #00ab37">The map trap: Why and how word learning research should move beyond mapping.</span>
 
 **Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">Children actively select words that support learning. </span> 
@@ -23,6 +21,8 @@ Schreiner, M., Bergmann, C., Frank, Michael C., Fritzsche, T., Gonzalez-Gomez, N
 Bergmann, C., **Zettersten, M.**, Soderstrom, M., Tsui, A.S.T., Mayor, J., Lundwall, R.A., Lewis, M., Kosie, J.E., Kartushina, N., Fusaroli, R., Frank, M.C., Byers-Heinlein, K., Black, A.K., & Mathur, M.B. (in prep). <span style="color: #00ab37">Investigating discrepancies between multisite replications and published meta-analyses: A case study.</span> 
 
 #### **ACCEPTED**
+
+Koranda, M., **Zettersten, M.**, & McDonald, M. (accepted). <span style="color: #00ab37">Good-enough production: Selecting easier words instead of more accurate ones.</span> *Psychological Science*. <a href="https://osf.io/3svge/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/word-choice" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/q2h9d){:target="\_blank"}
 
 **Zettersten, M.\***, Weaver, H.\*, & Saffran, J. (Stage 1 registered report, in-principle acceptance).  <span style="color: #00ab37">Becoming word meaning experts: Infants’ processing of familiar words in the context of typical and atypical exemplars.</span>  \*equal authorship <a href="https://osf.io/3t8gf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/lwl_typ_animals" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/njh38/){:target="\_blank"}
 

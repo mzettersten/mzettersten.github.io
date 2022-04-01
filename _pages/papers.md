@@ -10,6 +10,8 @@ title: papers
 
 **Zettersten, M.**, Bergey, C. A., Bhatt, N., Boyce, V., Braginsky, M., Carstensen, A., deMayo, B., Handa, K. Kachergis, G., Lewis, M., Long, B., MacDonald, K., Mankewitz, J., Marchman, V., Meylan, S. C., Saleh, A. N., Schneider, R. M., Tsui, A.S.T., Uner, S., Xu, T. L., Yurovsky, D., & Frank, M.C. (revise and resubmit). <span style="color: #00ab37">Peekbank: An open, large-scale repository for developmental eye-tracking data of children's word recognition.</span> <a href="https://github.com/langcog/peekbank-paper" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/pr6wu/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://psyarxiv.com/tgnzv){:target="\_blank"}
 
+**Zettersten, M.**, Pomper, R., & Saffran, J. (under review). <span style="color: #00ab37">Valid points and looks: Reliability and validity go hand-in-hand when improving infant methods.</span>
+
 **Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">Children actively select words that support learning. </span> 
 
 **Zettersten, M.**, Bredemann, C., Kaul, M., Vlach, H., Kirkorian, H., & Lupyan, G. (in prep). <span style="color: #00ab37">Nameability supports rule-based category learning in children and adults.</span>

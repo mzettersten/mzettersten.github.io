@@ -22,14 +22,14 @@ Bergmann, C., **Zettersten, M.**, Soderstrom, M., Tsui, A.S.T., Mayor, J., Lundw
 
 **Zettersten, M.**, Pomper, R., & Saffran, J. (accepted). <span style="color: #00ab37">Valid points and looks: Reliability and validity go hand-in-hand when improving infant methods.</span> *Infant and Child Development*.
 
-Wojcik, E., **Zettersten, M.**, &  Benitez, V. (accepted). <span style="color: #00ab37">The map trap: Why and how word learning research should move beyond mapping.</span> *WIREs Cognitive Science*.
-
 Koranda, M., **Zettersten, M.**, & MacDonald, M. (accepted). <span style="color: #00ab37">Good-enough production: Selecting easier words instead of more accurate ones.</span> *Psychological Science*. <a href="https://osf.io/3svge/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/word-choice" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/q2h9d){:target="\_blank"}
 
 **Zettersten, M.\***, Weaver, H.\*, & Saffran, J. (Stage 1 registered report, in-principle acceptance).  <span style="color: #00ab37">Becoming word meaning experts: Infants’ processing of familiar words in the context of typical and atypical exemplars.</span> *Child Development*. \*equal authorship <a href="https://osf.io/3t8gf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/lwl_typ_animals" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/njh38/){:target="\_blank"}
 
 
 #### **2022**
+
+Wojcik, E., **Zettersten, M.**, &  Benitez, V. (2022). [<span style="color: #00ab37">The map trap: Why and how word learning research should move beyond mapping.</span>](https://mzettersten.github.io/assets/pdf/Wojcik_Zettersten_Benitez_2022.pdf) *WIREs Cognitive Science*, e1596. <a href="https://doi.org/10.1002/wcs.1596" target="_blank" title="doi"><i class="ai ai-doi"></i></a>
 
 Visser, I., Bergmann, C., Byers-Heinlein, K., Dal Ben, R., Duch, W., Forbes, S., Franchin, L., Frank, M. C., Geraci, A., Hamlin, J. K., Kaldy, Z., Kulke, L., Laverty, C., Lew-Williams, C., Mateu, V., Mayor, J., Moreau, D., Nomikou, I., Schuwerk, T., Simpson, E. A., Singh, L., Soderstrom, M., Sullivan, J., van den Heuvel, M. I., Westermann, G., Yamada, Y., Zaadnoordijk, L., **Zettersten, M.** (in press). [<span style="color: #00ab37">Improving the generalizability of infant psychological research: The ManyBabies model.</span>](https://mzettersten.github.io/assets/pdf/ManyBabies_BBS_commentary.pdf) *Behavioral and Brain Sciences, 45*, E35. [commentary on The generalizability crisis, by Tal Yarkoni] <a href="https://doi.org/10.1017/S0140525X21000455" target="_blank" title="doi"><i class="ai ai-doi"></i></a> [[preprint]](https://psyarxiv.com/8vwbf){:target="\_blank"}
 

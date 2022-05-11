@@ -26,7 +26,7 @@ Koranda, M., **Zettersten, M.**, & MacDonald, M. (accepted). <span style="color:
 
 #### **2022**
 
-**Zettersten, M.**, Pomper, R., & Saffran, J. (accepted). [<span style="color: #00ab37">Valid points and looks: Reliability and validity go hand-in-hand when improving infant methods.</span> ](https://mzettersten.github.io/assets/pdf/Zettersten_Pomper_Saffran_2022.pdf) *Infant and Child Development*, e2326. <a href="https://doi.org/10.1002/icd.2326" target="_blank" title="doi"><i class="ai ai-doi"></i></a>
+**Zettersten, M.**, Pomper, R., & Saffran, J. (2022). [<span style="color: #00ab37">Valid points and looks: Reliability and validity go hand-in-hand when improving infant methods.</span> ](https://mzettersten.github.io/assets/pdf/Zettersten_Pomper_Saffran_2022.pdf) *Infant and Child Development*, e2326. <a href="https://doi.org/10.1002/icd.2326" target="_blank" title="doi"><i class="ai ai-doi"></i></a>
 
 Wojcik, E., **Zettersten, M.**, &  Benitez, V. (2022). [<span style="color: #00ab37">The map trap: Why and how word learning research should move beyond mapping.</span>](https://mzettersten.github.io/assets/pdf/Wojcik_Zettersten_Benitez_2022.pdf) *WIREs Cognitive Science*, e1596. <a href="https://doi.org/10.1002/wcs.1596" target="_blank" title="doi"><i class="ai ai-doi"></i></a>
 

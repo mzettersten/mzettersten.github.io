@@ -10,6 +10,8 @@ title: papers
 
 **Zettersten, M.**, Yurovsky, D., Xu, T. L., Uner, S., Tsui, A.S.T., Schneider, R. M., Saleh, A. N., Meylan, S. C., Marchman, V., Mankewitz, J., MacDonald, K., Long, B., Lewis, M., Kachergis, G., Handa, K., deMayo, B., Carstensen, A., Braginsky, M., Boyce, V., Bhatt, N., Bergey, C. A., & Frank, M.C. (under review). <span style="color: #00ab37">Peekbank: An open, large-scale repository for developmental eye-tracking data of children's word recognition.</span> <a href="https://github.com/langcog/peekbank-paper" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/pr6wu/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://psyarxiv.com/tgnzv){:target="\_blank"}
 
+**Zettersten, M.**, Bredemann, C., Kaul, M., Vlach, H., Kirkorian, H., & Lupyan, G. (under review). <span style="color: #00ab37">Nameability supports rule-based category learning in children and adults.</span> <a href="https://osf.io/3y4ck/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/color-rule-kid" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/umrj8/){:target="\_blank"}
+
 **Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">Children actively select words that support learning. </span> 
 
 Schreiner, M., Bergmann, C., Frank, Michael C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, K., Kartushina, N., Kellier, D.J., Mani, N., Mayor, J., Saffran, J., Shukla, M., Silverstein, P., Soderstrom, M., **Zettersten, M.**, &  Lippold, M. (in prep). <span style="color: #00ab37">Assessing test-retest reliability in infant-directed speech preference measures.</span> <a href="https://osf.io/zeqka/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
@@ -23,8 +25,6 @@ Koranda, M., **Zettersten, M.**, & MacDonald, M. (accepted). <span style="color:
 **Zettersten, M.\***, Weaver, H.\*, & Saffran, J. (Stage 1 registered report, in-principle acceptance).  <span style="color: #00ab37">Becoming word meaning experts: Infants’ processing of familiar words in the context of typical and atypical exemplars.</span> *Child Development*. \*equal authorship <a href="https://osf.io/3t8gf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/lwl_typ_animals" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/njh38/){:target="\_blank"}
 
 #### **2022**
-
-**Zettersten, M.**, Bredemann, C., Kaul, M., Vlach, H., Kirkorian, H., & Lupyan, G. (in prep). <span style="color: #00ab37">Nameability supports rule-based category learning in children and adults.</span> <a href="https://osf.io/3y4ck/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/color-rule-kid" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/umrj8/){:target="\_blank"}
 
 **Zettersten, M.**, Pomper, R., & Saffran, J. (2022). [<span style="color: #00ab37">Valid points and looks: Reliability and validity go hand-in-hand when improving infant methods.</span>](https://mzettersten.github.io/assets/pdf/Zettersten_Pomper_Saffran_2022.pdf) *Infant and Child Development*, e2326. <a href="https://doi.org/10.1002/icd.2326" target="_blank" title="doi"><i class="ai ai-doi"></i></a>
 

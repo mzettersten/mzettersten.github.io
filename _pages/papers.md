@@ -8,8 +8,6 @@ title: papers
 
 #### **IN PREP AND UNDER REVIEW**
 
-**Zettersten, M.**, Yurovsky, D., Xu, T. L., Uner, S., Tsui, A.S.T., Schneider, R. M., Saleh, A. N., Meylan, S. C., Marchman, V., Mankewitz, J., MacDonald, K., Long, B., Lewis, M., Kachergis, G., Handa, K., deMayo, B., Carstensen, A., Braginsky, M., Boyce, V., Bhatt, N., Bergey, C. A., & Frank, M.C. (under review). <span style="color: #00ab37">Peekbank: An open, large-scale repository for developmental eye-tracking data of children's word recognition.</span> <a href="https://github.com/langcog/peekbank-paper" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/pr6wu/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://psyarxiv.com/tgnzv){:target="\_blank"}
-
 **Zettersten, M.**, Bredemann, C., Kaul, M., Vlach, H., Kirkorian, H., & Lupyan, G. (under review). <span style="color: #00ab37">Nameability supports rule-based category learning in children and adults.</span> <a href="https://osf.io/3y4ck/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/color-rule-kid" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/umrj8/){:target="\_blank"}
 
 **Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">Children actively select words that support learning. </span> 
@@ -19,6 +17,8 @@ Schreiner, M., Bergmann, C., Frank, Michael C., Fritzsche, T., Gonzalez-Gomez, N
 Bergmann, C., **Zettersten, M.**, Soderstrom, M., Tsui, A.S.T., Mayor, J., Lundwall, R.A., Lewis, M., Kosie, J.E., Kartushina, N., Fusaroli, R., Frank, M.C., Byers-Heinlein, K., Black, A.K., & Mathur, M.B. (in prep). <span style="color: #00ab37">Investigating discrepancies between multisite replications and published meta-analyses: A case study.</span> 
 
 #### **ACCEPTED**
+
+**Zettersten, M.**, Yurovsky, D., Xu, T. L., Uner, S., Tsui, A.S.T., Schneider, R. M., Saleh, A. N., Meylan, S. C., Marchman, V., Mankewitz, J., MacDonald, K., Long, B., Lewis, M., Kachergis, G., Handa, K., deMayo, B., Carstensen, A., Braginsky, M., Boyce, V., Bhatt, N., Bergey, C. A., & Frank, M.C. (accepted). <span style="color: #00ab37">Peekbank: An open, large-scale repository for developmental eye-tracking data of children's word recognition.</span> *Behavior Research Methods*. <a href="https://github.com/langcog/peekbank-paper" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/pr6wu/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://psyarxiv.com/tgnzv){:target="\_blank"}
 
 Koranda, M., **Zettersten, M.**, & MacDonald, M. (accepted). <span style="color: #00ab37">Good-enough production: Selecting easier words instead of more accurate ones.</span> *Psychological Science*. <a href="https://osf.io/3svge/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/word-choice" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/q2h9d){:target="\_blank"}
 

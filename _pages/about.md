@@ -22,7 +22,7 @@ Before coming to Princeton, I completed my PhD in Cognitive/ Developmental Psych
 
 <strong>I study language - how we learn it and what we do with it.</strong>
 
-I also care a lot about building and contributing to team science projects. Some recent work includes [Peekbank](https://peekbank.stanford.edu){:target="\_blank"}, an open database of infant eye-tracking data, and [ManyBabies](https://manybabies.github.io/MB5/){:target="\_blank"}, cross-lab collaborations on big questions in infant development.
+I also work on building team science projects that help address big questions in infant development. Some recent work includes [Peekbank](https://peekbank.stanford.edu){:target="\_blank"}, an open database of infant eye-tracking data, and [ManyBabies](https://manybabies.github.io/MB5/){:target="\_blank"}, cross-lab collaborations testing key empirical questions in infant cognition.
 
 <!--
 <a class="twitter-timeline" data-width="230" data-height="400" href="https://twitter.com/m_zettersten?ref_src=twsrc%5Etfw">Tweets by m_zettersten</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->

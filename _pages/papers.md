@@ -14,7 +14,7 @@ Schreiner, M., **Zettersten, M.**, Bergmann, C., Frank, Michael C., Fritzsche, T
 
 **Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">Children actively select words that support learning. </span> 
 
-Kosie, J.\*, **Zettersten, M.\***, & the ManyBabies5 team. (in prep). ManyBabies5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time.
+Kosie, J.\*, **Zettersten, M.\***, & the ManyBabies5 team. (in prep). ManyBabies5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time. *equal authorship
 
 Bergmann, C., **Zettersten, M.**, Soderstrom, M., Tsui, A.S.T., Mayor, J., Lundwall, R.A., Lewis, M., Kosie, J.E., Kartushina, N., Fusaroli, R., Frank, M.C., Byers-Heinlein, K., Black, A.K., & Mathur, M.B. (in prep). <span style="color: #00ab37">Investigating discrepancies between multisite replications and published meta-analyses: A case study.</span> 
 

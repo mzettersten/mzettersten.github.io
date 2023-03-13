@@ -14,7 +14,7 @@ Schreiner, M., **Zettersten, M.**, Bergmann, C., Frank, Michael C., Fritzsche, T
 
 Kosie, J.\*, **Zettersten, M.\***, & the ManyBabies5 team. (under review). <span style="color: #00ab37">ManyBabies5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time.</span> *equal authorship <a href="https://osf.io/g3udp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb5-analysis" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/ck3vd/){:target="\_blank"}
 
-**Zettersten, M.**, Cutler, M., & Lew-Williams, C. (in prep). <span style="color: #00ab37">Active information-seeking in support of learning extensions of novel words. </span> [[preprint]](https://psyarxiv.com/ecq85/){:target="\_blank"}
+**Zettersten, M.**, Cutler, M., & Lew-Williams, C. (in prep). <span style="color: #00ab37">Active information-seeking in support of learning extensions of novel words. </span> <a href="https://github.com/mzettersten/cat-act" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/p38g9/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://psyarxiv.com/ecq85/){:target="\_blank"}
 
 **Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">Children actively select words that support learning. </span> 
 

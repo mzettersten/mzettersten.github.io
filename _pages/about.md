@@ -18,6 +18,8 @@ social: true
   
 I am a postdoctoral research fellow in the [Department of Psychology](https://psych.princeton.edu/){:target="\_blank"} at Princeton University. I work in the [Princeton Baby Lab](https://babylab.princeton.edu/){:target="\_blank"}. 
 
+<strong>Starting Fall 2024, I will be an Assistant Professor in the Department of Cognitive Science at the University of California, San Diego.</strong> Please feel free to reach out if you are curious about my work and joining my future lab.
+
 Before coming to Princeton, I completed my PhD in Cognitive/ Developmental Psychology in the [Infant Learning Lab](https://infantlearning.waisman.wisc.edu/){:target="\_blank"} at the University of Wisconsin-Madison, working with Jenny Saffran and Gary Lupyan.
 
 <strong>I study language - how we learn it and what we do with it.</strong>

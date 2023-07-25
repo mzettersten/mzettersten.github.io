@@ -8,8 +8,6 @@ title: papers
 
 #### **IN PREP AND UNDER REVIEW**
 
-**Zettersten, M.**, Bredemann, C., Kaul, M., Vlach, H., Kirkorian, H., & Lupyan, G. (under review). <span style="color: #00ab37">Nameability supports rule-based category learning in children and adults.</span> <a href="https://osf.io/3y4ck/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/color-rule-kid" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/umrj8/){:target="\_blank"}
-
 Schreiner, M., **Zettersten, M.**, Bergmann, C., Frank, Michael C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, K., Kartushina, N., Kellier, D.J., Mani, N., Mayor, J., Saffran, J., Shukla, M., Silverstein, P., Soderstrom, M., &  Lippold, M. (under review). <span style="color: #00ab37">Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample.</span> <a href="https://osf.io/zeqka/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/msschreiner/MB1T" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/uwche/){:target="\_blank"}
 
 Kosie, J.\*, **Zettersten, M.\***, & the ManyBabies5 team. (under review). <span style="color: #00ab37">ManyBabies5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time.</span> *equal authorship <a href="https://osf.io/g3udp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb5-analysis" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/ck3vd/){:target="\_blank"}
@@ -21,6 +19,8 @@ Kosie, J.\*, **Zettersten, M.\***, & the ManyBabies5 team. (under review). <span
 Bergmann, C., **Zettersten, M.**, Soderstrom, M., Tsui, A.S.T., Mayor, J., Lundwall, R.A., Lewis, M., Kosie, J.E., Kartushina, N., Fusaroli, R., Frank, M.C., Byers-Heinlein, K., Black, A.K., & Mathur, M.B. (in prep). <span style="color: #00ab37">Investigating discrepancies between multisite replications and published meta-analyses: A case study.</span> 
 
 #### **ACCEPTED**
+
+**Zettersten, M.**, Bredemann, C., Kaul, M., Vlach, H., Kirkorian, H., & Lupyan, G. (accepted). <span style="color: #00ab37">Nameability supports rule-based category learning in children and adults.</span> *Child Development*. <a href="https://osf.io/3y4ck/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/color-rule-kid" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/umrj8/){:target="\_blank"}
 
 **Zettersten, M.\***, Weaver, H.\*, & Saffran, J. (Stage 1 registered report, in-principle acceptance).  <span style="color: #00ab37">Becoming word meaning experts: Infants’ processing of familiar words in the context of typical and atypical exemplars.</span> *Child Development*. \*equal authorship <a href="https://osf.io/3t8gf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/lwl_typ_animals" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/njh38/){:target="\_blank"}
 

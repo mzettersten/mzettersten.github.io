@@ -12,17 +12,19 @@ Schreiner, M., **Zettersten, M.**, Bergmann, C., Frank, Michael C., Fritzsche, T
 
 Kosie, J.\*, **Zettersten, M.\***, & the ManyBabies5 team. (under review). <span style="color: #00ab37">ManyBabies5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time.</span> *equal authorship <a href="https://osf.io/g3udp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb5-analysis" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/ck3vd/){:target="\_blank"}
 
-**Zettersten, M.**, Cutler, M., & Lew-Williams, C. (in prep). <span style="color: #00ab37">Active information-seeking in support of learning extensions of novel words. </span> [[preprint]](https://psyarxiv.com/ecq85/){:target="\_blank"}
+**Zettersten, M.\***, Cox, C.M.M.\*, Bergmann, C.\*, Tsui, A.S.M., Soderstrom, M., Mayor, J., Lundwall, R.A., Lewis, M., Kosie, J.E., Kartushina, N., Fusaroli, R., Frank, M.C., Byers-Heinlein, K., Black, A.K., \& Mathur, M.B. (under review). <span style="color: #00ab37">Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis.</span> \*equal authorship [[preprint]](https://psyarxiv.com/etqs7){:target="\_blank"}
+
+Alessandroni, N., Altschul, D., Bazhydai, M., Byers-Heinlein, K., Elsherif, M., Gjoneska, B., Huber, L., Mazza, V., Miller, R., Nawroth, C., Pronizius, E., Qadri, M.A.J., Šlipogor, V., Soderstrom, M., Stevens, J.R., Visser, I., Williams, M., **Zettersten, M.**, \& Prétôt, L. (under review). <span style="color: #00ab37">Comparative cognition needs Big Team Science: How large-scale collaborations will unlock the future of the field.</span>
 
 **Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">Children actively select words that support learning. </span> 
 
-Bergmann, C., **Zettersten, M.**, Soderstrom, M., Tsui, A.S.T., Mayor, J., Lundwall, R.A., Lewis, M., Kosie, J.E., Kartushina, N., Fusaroli, R., Frank, M.C., Byers-Heinlein, K., Black, A.K., & Mathur, M.B. (in prep). <span style="color: #00ab37">Investigating discrepancies between multisite replications and published meta-analyses: A case study.</span> 
-
 #### **ACCEPTED**
 
-**Zettersten, M.**, Bredemann, C., Kaul, M., Vlach, H., Kirkorian, H., & Lupyan, G. (accepted). <span style="color: #00ab37">Nameability supports rule-based category learning in children and adults.</span> *Child Development*. <a href="https://osf.io/3y4ck/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/color-rule-kid" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/umrj8/){:target="\_blank"}
-
 **Zettersten, M.\***, Weaver, H.\*, & Saffran, J. (Stage 1 registered report, in-principle acceptance).  <span style="color: #00ab37">Becoming word meaning experts: Infants’ processing of familiar words in the context of typical and atypical exemplars.</span> *Child Development*. \*equal authorship <a href="https://osf.io/3t8gf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/lwl_typ_animals" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/njh38/){:target="\_blank"}
+
+#### **2023**
+
+**Zettersten, M.**, Bredemann, C., Kaul, M., Vlach, H., Kirkorian, H., & Lupyan, G. (2023). [<span style="color: #00ab37">Nameability supports rule-based category learning in children and adults.</span>](https://mzettersten.github.io/assets/pdf/Zettersten_et_al_2023_Child_Development.pdf) *Child Development*. <a href="https://doi.org/10.1111/cdev.14008" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/3y4ck/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/color-rule-kid" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/umrj8/){:target="\_blank"}
 
 #### **2022**
 
@@ -75,6 +77,8 @@ Lewis, M., **Zettersten, M.**, & Lupyan, G. (2019). [<span style="color: #00ab37
 Hoehl, S., **Zettersten, M.**, Schleihauf, H., Graetz, S., & Pauen, S. (2014). [<span style="color: #00ab37">The role of social interaction and pedagogical cues for eliciting and reducing overimitation in preschoolers.</span>](https://mzettersten.github.io/assets/pdf/2014_Hoehl_JECP.pdf){:target="\_blank"} *Journal of Experimental Child Psychology, 122*, 122-133. <a href="https://doi.org/10.1016/j.jecp.2013.12.012" target="_blank" title="doi"><i class="ai ai-doi"></i></a>
 
 ### **PEER-REVIEWED PROCEEDINGS PAPERS**
+
+**Zettersten, M.**, Cutler, M., & Lew-Williams, C. (2023). [<span style="color: #00ab37">Active information-seeking in support of learning extensions of novel words. </span>] (https://mzettersten.github.io/assets/pdf/zettersten_cutler_lewwilliams_2023_cogsci.pdf)  *Proceedings of the 45th Annual Conference of the Cognitive Science Society*. <a href="https://github.com/mzettersten/cat-act" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/p38g9/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://psyarxiv.com/ecq85/){:target="\_blank"}
 
 **Zettersten, M.**, Bergey, C. A., Bhatt, N., Boyce, V., Braginsky, M., Carstensen, A., deMayo, B., Kachergis, G., Lewis, M., Long, B., MacDonald, K., Mankewitz, J., Meylan, S. C., Saleh, A. N., Schneider, R. M., Tsui, A.S.T., Uner, S., Xu, T. L., Yurovsky, D., & Frank, M.C. (2021). [<span style="color: #00ab37">Peekbank: Exploring children’s word recognition through an open, large-scale repository for developmental eye-tracking data.</span>](https://mzettersten.github.io/assets/pdf/cogsci21a-sub1396-cam-i9.pdf){:target="\_blank"} *Proceedings of the 43rd Annual Conference of the Cognitive Science Society*. <a href="https://github.com/langcog/peekbank-paper" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/pr6wu/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://psyarxiv.com/ep693/){:target="\_blank"} 
 

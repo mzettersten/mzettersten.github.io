@@ -24,7 +24,7 @@ Alessandroni, N., Altschul, D., Bazhydai, M., Byers-Heinlein, K., Elsherif, M., 
 
 #### **2024**
 
-**Zettersten, M.**, Bredemann, C., Kaul, M., Vlach, H., Kirkorian, H., & Lupyan, G. (2024). [<span style="color: #00ab37">Nameability supports rule-based category learning in children and adults.</span>](https://mzettersten.github.io/assets/pdf/Zettersten_et_al_2024_child_development.pdf) *Child Development, 95(2)*, 497-514. <a href="https://doi.org/10.1111/cdev.14008" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/3y4ck/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/color-rule-kid" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/umrj8/){:target="\_blank"}
+**Zettersten, M.**, Bredemann, C., Kaul, M., Vlach, H., Kirkorian, H., & Lupyan, G. (2024). [<span style="color: #00ab37">Nameability supports rule-based category learning in children and adults.</span>](https://mzettersten.github.io/assets/pdf/Zettersten_et_al_2024_child_development.pdf) *Child Development, 95*(2), 497-514. <a href="https://doi.org/10.1111/cdev.14008" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/3y4ck/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/color-rule-kid" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/umrj8/){:target="\_blank"}
 
 #### **2023**
 

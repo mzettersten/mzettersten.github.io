@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Martin</strong> Zettersten
-description: <a href="">Postdoctoral Research Associate. Princeton Baby Lab. Department of Psychology. Princeton University.</a>
+description: <a href="">Assistant Professor. LIL Lab. Department of Cognitive Science. University of California, San Diego.</a>
 
 profile:
   align: right
@@ -16,11 +16,11 @@ news: false
 social: true
 ---
   
-I am a postdoctoral research fellow in the [Department of Psychology](https://psych.princeton.edu/){:target="\_blank"} at Princeton University. I work in the [Princeton Baby Lab](https://babylab.princeton.edu/){:target="\_blank"}. 
 
-<strong>Starting Fall 2024, I will be an [Assistant Professor](https://cogsci.ucsd.edu/people/faculty/martin-zettersten.html) in the [Department of Cognitive Science](https://cogsci.ucsd.edu/) at the University of California, San Diego.</strong> Please feel free to reach out if you are curious about my work and joining my future lab.
 
-Before coming to Princeton, I completed my PhD in Cognitive/ Developmental Psychology in the [Infant Learning Lab](https://infantlearning.waisman.wisc.edu/){:target="\_blank"} at the University of Wisconsin-Madison, working with Jenny Saffran and Gary Lupyan.
+<strong>I am an [Assistant Professor](https://cogsci.ucsd.edu/people/faculty/martin-zettersten.html) in the [Department of Cognitive Science](https://cogsci.ucsd.edu/) at the University of California, San Diego.</strong> I run the Language and Infant Learning (LIL) Lab. Please feel free to reach out if you are curious about my work and joining my lab.
+
+Before coming to UCSD, I was a postdoctoral research fellow in the [Department of Psychology](https://psych.princeton.edu/){:target="\_blank"} at Princeton University, working in the [Princeton Baby Lab](https://babylab.princeton.edu/){:target="\_blank"}. I completed my PhD in Cognitive/ Developmental Psychology in the [Infant Learning Lab](https://infantlearning.waisman.wisc.edu/){:target="\_blank"} at the University of Wisconsin-Madison, working with Jenny Saffran and Gary Lupyan.
 
 <strong>I study language - how we learn it and what we do with it.</strong>
 

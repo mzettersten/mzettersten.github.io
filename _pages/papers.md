@@ -8,17 +8,19 @@ title: papers
 
 #### **IN PREP AND UNDER REVIEW**
 
-Alessandroni, N., Altschul, D., Bazhydai, M., Brosnan, S. F., Byers-Heinlein, K., Call, J., Chittka, L., Elsherif, M., Espinosa, J., Freeman, M., Gjoneska, B., Güntürkün, O., Huber, L., Krasheninnikova, A., Mazza, V., Miller, R., Moreau, D., Nawroth, C., Pronizius, E., Ruiz-Fernández, S., Schwing, R., Šlipogor, V., Visser, I., Vonk, J., Yeager, J., **Zettersten, M.**, & Prétôt, L. (under review). <span style="color: #00ab37">Bringing Big Team Science to comparative cognition research: Challenges and ways forward.</span> [[preprint]](https://osf.io/preprints/psyarxiv/5nykg){:target="\_blank"} 
+Campbell, E., Davis, C., **Zettersten, M.**, Cooke, M., Houston, D., Caselli, N., \& Bergelson, E. (under review). <span style="color: #00ab37">Early production of imperceptible words by infants and toddlers born deaf or blind.</span>
 
-Schreiner, M., **Zettersten, M.**, Bergmann, C., Frank, Michael C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, K., Kartushina, N., Kellier, D.J., Mani, N., Mayor, J., Saffran, J., Shukla, M., Silverstein, P., Soderstrom, M., &  Lippold, M. (under review). <span style="color: #00ab37">Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample.</span> <a href="https://osf.io/zeqka/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/msschreiner/MB1T" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/uwche/){:target="\_blank"}
-
-**Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">Children actively select words that support learning. </span> 
+**Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">Children actively select words that support learning.</span> 
 
 #### **ACCEPTED**
 
 Kosie, J.\*, **Zettersten, M.\***, & the ManyBabies5 team. (Stage 1 registered report, in-principle acceptance). <span style="color: #00ab37">ManyBabies5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time.</span> \*equal authorship <a href="https://osf.io/g3udp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb5-analysis" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/ck3vd/){:target="\_blank"}
 
 #### **2024**
+
+Alessandroni, N., Altschul, D., Bazhydai, M., Brosnan, S. F., Byers-Heinlein, K., Call, J., Chittka, L., Elsherif, M., Espinosa, J., Freeman, M., Gjoneska, B., Güntürkün, O., Huber, L., Krasheninnikova, A., Mazza, V., Miller, R., Moreau, D., Nawroth, C., Pronizius, E., Ruiz-Fernández, S., Schwing, R., Šlipogor, V., Visser, I., Vonk, J., Yeager, J., **Zettersten, M.**, & Prétôt, L. (2024). [<span style="color: #00ab37">Challenges and Promises of Big Team Comparative Cognition.</span>](https://mzettersten.github.io/assets/pdf/Alessandroni_et_al_2024.pdf) [[preprint]](https://osf.io/preprints/psyarxiv/5nykg){:target="\_blank"} 
+
+Schreiner, M., **Zettersten, M.**, Bergmann, C., Frank, Michael C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, K., Kartushina, N., Kellier, D.J., Mani, N., Mayor, J., Saffran, J., Shukla, M., Silverstein, P., Soderstrom, M., &  Lippold, M. (2024). [<span style="color: #00ab37">Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample.</span>](https://mzettersten.github.io/assets/pdf/Developmental_Science_2024_Schreiner.pdf) <a href="https://osf.io/zeqka/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/msschreiner/MB1T" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/uwche/){:target="\_blank"}
 
 Weaver, H.\*, **Zettersten, M.\***, & Saffran, J. (2024).  [<span style="color: #00ab37">Becoming word meaning experts: Infants’ processing of familiar words in the context of typical and atypical exemplars.</span>](https://mzettersten.github.io/assets/pdf/Weaver_Zettersten_Saffran_Child_Development_2024.pdf) *Child Development*. \*equal authorship <a href="http://doi.org/10.1111/cdev.14120" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/3t8gf/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/lwl_typ_animals" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/njh38/){:target="\_blank"}
 
@@ -82,7 +84,7 @@ Hoehl, S., **Zettersten, M.**, Schleihauf, H., Graetz, S., & Pauen, S. (2014). [
 
 ### **PEER-REVIEWED PROCEEDINGS PAPERS**
 
-Plate, R, Perkins, E. R., Waller, R., & **Zettersten, M.** (2024). <span style="color: #00ab37">Learning and generalizing associations between social cues and outcomes. </span> *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. <a href="https://github.com/mzettersten/emogo" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/vkd7t/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://osf.io/preprints/psyarxiv/hqcxm){:target="\_blank"}
+Plate, R, Perkins, E. R., Waller, R., & **Zettersten, M.** (2024). <span style="color: #00ab37">Learning and generalizing associations between social cues and outcomes. </span>](https://mzettersten.github.io/assets/pdf/emogo_cogsci_2024_revised.pdf) *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. <a href="https://github.com/mzettersten/emogo" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/vkd7t/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://osf.io/preprints/psyarxiv/hqcxm){:target="\_blank"}
 
 **Zettersten, M.**, Cutler, M., & Lew-Williams, C. (2023). [<span style="color: #00ab37">Active information-seeking in support of learning extensions of novel words. </span>](https://mzettersten.github.io/assets/pdf/zettersten_cutler_lewwilliams_2023_cogsci.pdf) *Proceedings of the 45th Annual Conference of the Cognitive Science Society*. <a href="https://github.com/mzettersten/cat-act" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/p38g9/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://psyarxiv.com/ecq85/){:target="\_blank"}
 

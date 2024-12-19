@@ -8,7 +8,7 @@ title: papers
 
 #### **IN PREP AND UNDER REVIEW**
 
-Campbell, E., Davis, C., **Zettersten, M.**, Cooke, M., Houston, D., Caselli, N., \& Bergelson, E. (under review). <span style="color: #00ab37">Early production of imperceptible words by infants and toddlers born deaf or blind.</span>
+Campbell, E., Davis, C., **Zettersten, M.**, Cooke, M., Houston, D., Caselli, N., & Bergelson, E. (under review). <span style="color: #00ab37">Early production of imperceptible words by infants and toddlers born deaf or blind.</span>
 
 **Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">Children actively select words that support learning.</span> 
 

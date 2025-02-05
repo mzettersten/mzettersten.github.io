@@ -12,9 +12,11 @@ Campbell, E., Davis, C., **Zettersten, M.**, Cooke, M., Houston, D., Caselli, N.
 
 **Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">Children actively select words that support learning.</span> 
 
+**Zettersten, M.**, Chen, J., & Lew-Williams, C. (under review). <span style="color: #00ab37">Children explore conservatively when learning novel word extensions.</span> [[preprint]](https://osf.io/preprints/psyarxiv/kwj7b){:target="\_blank"}
+
 #### **ACCEPTED**
 
-**Zettersten, M.**, Foushee, Ruthe, & Goddu, Mariel K. (in press). <span style="color: #00ab37">"Helpless" infants are active, goal-directed agents: Reply to Cusack et al.</span> *Trends in Cognitive Sciences*. [[preprint]](https://osf.io/preprints/psyarxiv/zw8x2){:target="\_blank"}
+**Zettersten, M.**, Foushee, Ruthe, & Goddu, Mariel K. (in press). <span style="color: #00ab37">"Helpless" infants are active, goal-directed agents: Response to Cusack et al.</span> *Trends in Cognitive Sciences*. [[preprint]](https://osf.io/preprints/psyarxiv/zw8x2){:target="\_blank"}
 
 Kosie, J.\*, **Zettersten, M.\***, & the ManyBabies5 team. (Stage 1 registered report, in-principle acceptance). <span style="color: #00ab37">ManyBabies5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time.</span> *Nature Human Behaviour*. \*equal authorship <a href="https://osf.io/g3udp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb5-analysis" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/ck3vd/){:target="\_blank"}
 

@@ -8,13 +8,13 @@ title: papers
 
 #### **IN PREP AND UNDER REVIEW**
 
-Campbell, E., Davis, C., **Zettersten, M.**, Cooke, M., Houston, D., Caselli, N., & Bergelson, E. (under review). <span style="color: #00ab37">Early production of imperceptible words by infants and toddlers born deaf or blind.</span>
-
 **Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">Children actively select words that support learning.</span> 
 
 **Zettersten, M.**, Chen, J., & Lew-Williams, C. (under review). <span style="color: #00ab37">Children explore conservatively when learning novel word extensions.</span> [[preprint]](https://osf.io/preprints/psyarxiv/kwj7b){:target="\_blank"}
 
 #### **ACCEPTED**
+
+Campbell, E., Davis, C., **Zettersten, M.**, Cooke, M., Houston, D., Caselli, N., & Bergelson, E. (in press). <span style="color: #00ab37">Early production of imperceptible words by infants and toddlers born deaf or blind.</span> <a href="https://osf.io/mp6ev/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> 
 
 **Zettersten, M.**, Foushee, Ruthe, & Goddu, Mariel K. (in press). <span style="color: #00ab37">"Helpless" infants are active, goal-directed agents: Response to Cusack et al.</span> *Trends in Cognitive Sciences*. [[preprint]](https://osf.io/preprints/psyarxiv/zw8x2){:target="\_blank"}
 

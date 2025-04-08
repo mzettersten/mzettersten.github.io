@@ -10,15 +10,16 @@ title: papers
 
 **Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">Children actively select words that support learning.</span> 
 
-**Zettersten, M.**, Chen, J., & Lew-Williams, C. (under review). <span style="color: #00ab37">Children explore conservatively when learning novel word extensions.</span> [[preprint]](https://osf.io/preprints/psyarxiv/kwj7b){:target="\_blank"}
-
 #### **ACCEPTED**
-
-Campbell, E., Davis, C., **Zettersten, M.**, Cooke, M., Houston, D., Caselli, N., & Bergelson, E. (in press). <span style="color: #00ab37">Early production of imperceptible words by infants and toddlers born deaf or blind.</span> <a href="https://osf.io/mp6ev/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> 
 
 **Zettersten, M.**, Foushee, Ruthe, & Goddu, Mariel K. (in press). <span style="color: #00ab37">"Helpless" infants are active, goal-directed agents: Response to Cusack et al.</span> *Trends in Cognitive Sciences*. [[preprint]](https://osf.io/preprints/psyarxiv/zw8x2){:target="\_blank"}
 
 Kosie, J.\*, **Zettersten, M.\***, & the ManyBabies5 team. (Stage 1 registered report, in-principle acceptance). <span style="color: #00ab37">ManyBabies5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time.</span> *Nature Human Behaviour*. \*equal authorship <a href="https://osf.io/g3udp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb5-analysis" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/ck3vd/){:target="\_blank"}
+
+
+#### **2025**
+
+Campbell, E., Davis, C., **Zettersten, M.**, Cooke, M., Houston, D., Caselli, N., & Bergelson, E. (2025). [<span style="color: #00ab37">Early production of imperceptible words by infants and toddlers born deaf or blind.</span>](https://mzettersten.github.io/assets/pdf/Campbell_et_al_2025.pdf) *Open Mind, 9*, 475-500. <a href="https://doi.org/10.1162/opmi_a_00197" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/mp6ev/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> 
 
 #### **2024**
 
@@ -87,6 +88,8 @@ Lewis, M., **Zettersten, M.**, & Lupyan, G. (2019). [<span style="color: #00ab37
 Hoehl, S., **Zettersten, M.**, Schleihauf, H., Graetz, S., & Pauen, S. (2014). [<span style="color: #00ab37">The role of social interaction and pedagogical cues for eliciting and reducing overimitation in preschoolers.</span>](https://mzettersten.github.io/assets/pdf/2014_Hoehl_JECP.pdf){:target="\_blank"} *Journal of Experimental Child Psychology, 122*, 122-133. <a href="https://doi.org/10.1016/j.jecp.2013.12.012" target="_blank" title="doi"><i class="ai ai-doi"></i></a>
 
 ### **PEER-REVIEWED PROCEEDINGS PAPERS**
+
+**Zettersten, M.**, Chen, J., & Lew-Williams, C. (in press). <span style="color: #00ab37">Children explore conservatively when learning novel word extensions.</span> *Proceedings of the 47th Annual Conference of the Cognitive Science Society*. [[preprint]](https://osf.io/preprints/psyarxiv/kwj7b){:target="\_blank"}
 
 Plate, R, Perkins, E. R., Waller, R., & **Zettersten, M.** (2024). [<span style="color: #00ab37">Learning and generalizing associations between social cues and outcomes.</span>](https://mzettersten.github.io/assets/pdf/emogo_cogsci_2024_revised.pdf) *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. <a href="https://github.com/mzettersten/emogo" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/vkd7t/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://osf.io/preprints/psyarxiv/hqcxm){:target="\_blank"}
 

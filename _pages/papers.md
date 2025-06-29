@@ -8,22 +8,29 @@ title: papers
 
 #### **IN PREP AND UNDER REVIEW**
 
+Alessandroni, N., Miller, R., Altschul, D. M., Barret, L. P., Bazhydai, M., Elsherif, M. M., Espinosa, J., Gjoneska, B., Héjja-Brichard, Y., Mazza, V., Paukner, A., Pronizius, E., Proulx, M. J., Qadri, M. A. J., Reilly, O. T., Schwing, R., Sebastián-Enesco, C., Šlipogor, V., de Sousa, A. A., Visser, I., Yeager, J., **Zettersten, M.**, Byers-Heinlein, K., Call, J., Chittka, L., Huber, L., & Prétôt, L. (submitted). <span style="color: #00ab37">Flexible behavior or flexible methods? A cross-taxon review of experimental designs in reversal learning.</span> <a href="https://github.com/manymanys/MM1-LR" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+
+ManyBabies 3 team (Stage 2 report in prep). <span style="color: #00ab37">ManyBabies 3: A multi-lab study of infant algebraic rule learning.</span> <a href="https://osf.io/kqu9v/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb3-analysis-private" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>  [[preprint]](https://osf.io/preprints/psyarxiv/aex7v_v1){:target="\_blank"}
+
 **Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (in prep). <span style="color: #00ab37">Children actively select words that support learning.</span> 
+
+Schuwerk, Kampis, & the ManyBabies 2 team (Stage 2 report under review). <span style="color: #00ab37">Action anticipation based on an agent's epistemic state in toddlers and adults.</span> <a href="https://osf.io/ceap4/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb2-analysis" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>  [[preprint]](https://osf.io/preprints/psyarxiv/x4jbm_v1){:target="\_blank"}
+
+Frank, M.C., Marchman, V., Bergey, C. A., Boyce, V., Braginsky, M., Kachergis, G., Mankewitz, J., Meylan, S. C., Prystawski, B., Ram, N., Sparks, R. Z., Steffan, A., Tan, A., & **Zettersten, M.** (submitted). <span style="color: #00ab37">Continuous developmental changes in word recognition support language learning across early childhood.</span> *Behavior Research Methods, 55*, 2485-2500. <a href="https://osf.io/z8pur/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/peekbank/peekbank-development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>  [[preprint]](https://osf.io/preprints/psyarxiv/dtv2f_v1){:target="\_blank"}
 
 #### **ACCEPTED**
 
-**Zettersten, M.**, Foushee, Ruthe, & Goddu, Mariel K. (in press). <span style="color: #00ab37">"Helpless" infants are active, goal-directed agents: Response to Cusack et al.</span> *Trends in Cognitive Sciences*. [[preprint]](https://osf.io/preprints/psyarxiv/zw8x2){:target="\_blank"}
-
 Kosie, J.\*, **Zettersten, M.\***, & the ManyBabies5 team. (Stage 1 registered report, in-principle acceptance). <span style="color: #00ab37">ManyBabies5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time.</span> *Nature Human Behaviour*. \*equal authorship <a href="https://osf.io/g3udp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb5-analysis" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/ck3vd/){:target="\_blank"}
-
 
 #### **2025**
 
+**Zettersten, M.**, Foushee, Ruthe, & Goddu, Mariel K. (2025). [<span style="color: #00ab37">"Helpless" infants are active, goal-directed agents: Response to Cusack et al.</span>](https://mzettersten.github.io/assets/pdf/Zettersten_Foushee_Goddu_tics_2025.pdf) *Trends in Cognitive Sciences*. <a href="https://doi.org/10.1016/j.tics.2025.01.009" target="_blank" title="doi"><i class="ai ai-doi"></i></a> [[preprint]](https://osf.io/preprints/psyarxiv/zw8x2){:target="\_blank"}
+
 Campbell, E., Davis, C., **Zettersten, M.**, Cooke, M., Houston, D., Caselli, N., & Bergelson, E. (2025). [<span style="color: #00ab37">Early production of imperceptible words by infants and toddlers born deaf or blind.</span>](https://mzettersten.github.io/assets/pdf/Campbell_et_al_2025.pdf) *Open Mind, 9*, 475-500. <a href="https://doi.org/10.1162/opmi_a_00197" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/mp6ev/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> 
 
-#### **2024**
+Alessandroni, N., Altschul, D., Bazhydai, M., Brosnan, S. F., Byers-Heinlein, K., Call, J., Chittka, L., Elsherif, M., Espinosa, J., Freeman, M., Gjoneska, B., Güntürkün, O., Huber, L., Krasheninnikova, A., Mazza, V., Miller, R., Moreau, D., Nawroth, C., Pronizius, E., Ruiz-Fernández, S., Schwing, R., Šlipogor, V., Visser, I., Vonk, J., Yeager, J., **Zettersten, M.**, & Prétôt, L. (2025). [<span style="color: #00ab37">Challenges and Promises of Big Team Comparative Cognition.</span>](https://mzettersten.github.io/assets/pdf/Alessandroni_et_al_2024.pdf) *Nature Human Behaviour*. <a href="https://doi.org/10.1038/s41562-024-02081-6" target="_blank" title="doi"><i class="ai ai-doi"></i></a> [[preprint]](https://osf.io/preprints/psyarxiv/5nykg){:target="\_blank"} 
 
-Alessandroni, N., Altschul, D., Bazhydai, M., Brosnan, S. F., Byers-Heinlein, K., Call, J., Chittka, L., Elsherif, M., Espinosa, J., Freeman, M., Gjoneska, B., Güntürkün, O., Huber, L., Krasheninnikova, A., Mazza, V., Miller, R., Moreau, D., Nawroth, C., Pronizius, E., Ruiz-Fernández, S., Schwing, R., Šlipogor, V., Visser, I., Vonk, J., Yeager, J., **Zettersten, M.**, & Prétôt, L. (2024). [<span style="color: #00ab37">Challenges and Promises of Big Team Comparative Cognition.</span>](https://mzettersten.github.io/assets/pdf/Alessandroni_et_al_2024.pdf) *Nature Human Behaviour*. <a href="https://doi.org/10.1038/s41562-024-02081-6" target="_blank" title="doi"><i class="ai ai-doi"></i></a> [[preprint]](https://osf.io/preprints/psyarxiv/5nykg){:target="\_blank"} 
+#### **2024**
 
 Schreiner, M., **Zettersten, M.**, Bergmann, C., Frank, Michael C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, K., Kartushina, N., Kellier, D.J., Mani, N., Mayor, J., Saffran, J., Shukla, M., Silverstein, P., Soderstrom, M., &  Lippold, M. (2024). [<span style="color: #00ab37">Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample.</span>](https://mzettersten.github.io/assets/pdf/Developmental_Science_2024_Schreiner.pdf) *Developmental Science*. <a href="https://doi.org/10.1111/desc.13551" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/zeqka/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/msschreiner/MB1T" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/uwche/){:target="\_blank"}
 
@@ -89,7 +96,9 @@ Hoehl, S., **Zettersten, M.**, Schleihauf, H., Graetz, S., & Pauen, S. (2014). [
 
 ### **PEER-REVIEWED PROCEEDINGS PAPERS**
 
-**Zettersten, M.**, Chen, J., & Lew-Williams, C. (in press). <span style="color: #00ab37">Children explore conservatively when learning novel word extensions.</span> *Proceedings of the 47th Annual Conference of the Cognitive Science Society*. [[preprint]](https://osf.io/preprints/psyarxiv/kwj7b){:target="\_blank"}
+Sepuri, T., **Zettersten, M.**, & Long, B. (2025). [<span style="color: #00ab37">Examining the precision of infants’ visual concepts by leveraging vision-language models and automated gaze coding.</span>](https://mzettersten.github.io/assets/pdf/infant_visual_concept_precision.pdf) *Proceedings of 8th Annual Conference on Computational Cognitive Neuroscience*. [[preprint]](https://osf.io/preprints/psyarxiv/p3mjt_v1){:target="\_blank"}
+
+**Zettersten, M.**, Chen, J., & Lew-Williams, C. (2025). [<span style="color: #00ab37">Children explore conservatively when learning novel word extensions.</span>](https://mzettersten.github.io/assets/pdf/kitty-act_cogsci2025.pdf) *Proceedings of the 47th Annual Conference of the Cognitive Science Society*. [[preprint]](https://osf.io/preprints/psyarxiv/kwj7b){:target="\_blank"}
 
 Plate, R, Perkins, E. R., Waller, R., & **Zettersten, M.** (2024). [<span style="color: #00ab37">Learning and generalizing associations between social cues and outcomes.</span>](https://mzettersten.github.io/assets/pdf/emogo_cogsci_2024_revised.pdf) *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. <a href="https://github.com/mzettersten/emogo" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/vkd7t/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> [[preprint]](https://osf.io/preprints/psyarxiv/hqcxm){:target="\_blank"}
 

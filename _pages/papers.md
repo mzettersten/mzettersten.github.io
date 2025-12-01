@@ -8,7 +8,7 @@ title: papers
 
 #### **UNDER REVIEW**
 
-**Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (under review). <span style="color: #00ab37">Active sampling helps children learnnew words by tuning their curriculum to past experiences.</span> <a href="https://osf.io/hw78k" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/act" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>  [[preprint]](https://osf.io/preprints/psyarxiv/ne43k_v1){:target="\_blank"}
+**Zettersten, M.**, Choi, K., Kirkorian, H., & Saffran, J. (under review). <span style="color: #00ab37">Active sampling helps children learn new words by tuning their curriculum to past experiences.</span> <a href="https://osf.io/hw78k" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/mzettersten/act" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>  [[preprint]](https://osf.io/preprints/psyarxiv/ne43k_v1){:target="\_blank"}
 
 Alessandroni, N., Miller, R., Altschul, D. M., Barrett, L. P., Bazhydai, M., Elsherif, M. M., Espinosa, J., Gjoneska, B., Héjja-Brichard, Y., Mazza, V., Paukner, A., Pronizius, E., Proulx, M. J., Qadri, M. A. J., Reilly, O. T., Schwing, R., Sebastián-Enesco, C., Šlipogor, V., de Sousa, A. A., Visser, I., Yeager, J., **Zettersten, M.**, Byers-Heinlein, K., Call, J., Chittka, L., Huber, L., & Prétôt, L. (under review). <span style="color: #00ab37">Flexible behavior or flexible methods? A cross-taxon review of experimental designs in reversal learning.</span> <a href="https://github.com/manymanys/MM1-LR" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/mvche)
 

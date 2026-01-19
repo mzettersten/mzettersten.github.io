@@ -16,17 +16,19 @@ ManyBabies 3 team (Stage 2 report under review). <span style="color: #00ab37">Ma
 
 Schuwerk, T., Kampis, D., & the ManyBabies 2 team (Stage 2 report under review). <span style="color: #00ab37">Action anticipation based on an agent's epistemic state in toddlers and adults.</span> <a href="https://osf.io/ceap4/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb2-analysis" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>  [[preprint]](https://osf.io/preprints/psyarxiv/x4jbm_v2){:target="\_blank"}
 
-Frank, M.C., Marchman, V., Bergey, C. A., Boyce, V., Braginsky, M., Kachergis, G., Mankewitz, J., Meylan, S. C., Prystawski, B., Ram, N., Sparks, R. Z., Steffan, A., Tan, A., & **Zettersten, M.** (under review). <span style="color: #00ab37">Continuous developmental changes in word recognition support language learning across early childhood.</span> *eLife* <a href="https://osf.io/z8pur/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/peekbank/peekbank-development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>  [[preprint]](https://osf.io/preprints/psyarxiv/dtv2f_v2){:target="\_blank"}
-
 #### **ACCEPTED**
-
-Lupyan, G., Gentry, H., & **Zettersten, M.** (in press). How important is language for human-like intelligence? *Perspectives on Psychological Science.* [[preprint]](https://doi.org/10.48550/arXiv.2509.15560){:target="\_blank"}
 
 Kosie, J.\*, **Zettersten, M.\***, & the ManyBabies5 team. (Stage 1 registered report, in-principle acceptance). <span style="color: #00ab37">ManyBabies5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time.</span> *Nature Human Behaviour*. \*equal authorship <a href="https://osf.io/g3udp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb5-analysis" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/ck3vd/){:target="\_blank"}
 
+#### **2026**
+
+Lupyan, G., Gentry, H., & **Zettersten, M.** (2026). [<span style="color: #00ab37">How important is language for human-like intelligence?</span>](https://mzettersten.github.io/assets/pdf/lupyan-et-al-2026-how-important-is-language-for-human-like-intelligence.pdf) *Perspectives on Psychological Science.* [[preprint]](https://doi.org/10.48550/arXiv.2509.15560){:target="\_blank"}
+
 #### **2025**
 
-**Zettersten, M.**, Foushee, Ruthe, & Goddu, Mariel K. (2025). [<span style="color: #00ab37">"Helpless" infants are active, goal-directed agents: Response to Cusack et al.</span>](https://mzettersten.github.io/assets/pdf/Zettersten_Foushee_Goddu_tics_2025.pdf) *Trends in Cognitive Sciences*. <a href="https://doi.org/10.1016/j.tics.2025.01.009" target="_blank" title="doi"><i class="ai ai-doi"></i></a> [[preprint]](https://osf.io/preprints/psyarxiv/zw8x2){:target="\_blank"}
+Frank, M.C., Marchman, V., Bergey, C. A., Boyce, V., Braginsky, M., Kachergis, G., Mankewitz, J., Meylan, S. C., Prystawski, B., Ram, N., Sparks, R. Z., Steffan, A., Tan, A., & **Zettersten, M.** (2025). <span style="color: #00ab37">Continuous developmental changes in word recognition support language learning across early childhood.</span> *eLife* <a href="https://osf.io/z8pur/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/peekbank/peekbank-development" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>  [[preprint]](https://osf.io/preprints/psyarxiv/dtv2f_v2){:target="\_blank"}
+
+**Zettersten, M.**, Foushee, Ruthe, & Goddu, Mariel K. (2025). [<span style="color: #00ab37">"Helpless" infants are active, goal-directed agents: Response to Cusack et al.</span>](https://mzettersten.github.io/assets/pdf/Zettersten_Foushee_Goddu_tics_2025.pdf) *Trends in Cognitive Sciences, 7*, 587-588. <a href="https://doi.org/10.1016/j.tics.2025.01.009" target="_blank" title="doi"><i class="ai ai-doi"></i></a> [[preprint]](https://osf.io/preprints/psyarxiv/zw8x2){:target="\_blank"}
 
 Campbell, E., Davis, C., **Zettersten, M.**, Cooke, M., Houston, D., Caselli, N., & Bergelson, E. (2025). [<span style="color: #00ab37">Early production of imperceptible words by infants and toddlers born deaf or blind.</span>](https://mzettersten.github.io/assets/pdf/Campbell_et_al_2025.pdf) *Open Mind, 9*, 475-500. <a href="https://doi.org/10.1162/opmi_a_00197" target="_blank" title="doi"><i class="ai ai-doi"></i></a> <a href="https://osf.io/mp6ev/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> 
 

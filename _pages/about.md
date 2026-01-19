@@ -18,7 +18,7 @@ social: true
   
 
 
-<strong>I am an [Assistant Professor](https://cogsci.ucsd.edu/people/faculty/martin-zettersten.html) in the [Department of Cognitive Science](https://cogsci.ucsd.edu/) at the University of California, San Diego.</strong> I run the Language and Infant Learning (LIL) Lab. Please feel free to reach out if you are curious about my work and joining my lab.
+<strong>I am an [Assistant Professor](https://cogsci.ucsd.edu/people/faculty/martin-zettersten.html){:target="\_blank"} in the [Department of Cognitive Science](https://cogsci.ucsd.edu/){:target="\_blank"} at the University of California, San Diego.</strong> I run the [Language and Infant Learning (LIL) Lab](https://lillab.ucsd.edu/){:target="\_blank"}. Please feel free to reach out if you are curious about my work and joining my lab.
 
 Before coming to UCSD, I was a postdoctoral research fellow in the [Department of Psychology](https://psych.princeton.edu/){:target="\_blank"} at Princeton University, working in the [Princeton Baby Lab](https://babylab.princeton.edu/){:target="\_blank"}. I completed my PhD in Cognitive/ Developmental Psychology in the [Infant Learning Lab](https://infantlearning.waisman.wisc.edu/){:target="\_blank"} at the University of Wisconsin-Madison, working with Jenny Saffran and Gary Lupyan.
 

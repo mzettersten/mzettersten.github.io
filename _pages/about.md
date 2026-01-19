@@ -25,6 +25,3 @@ Before coming to UCSD, I was a postdoctoral research fellow in the <a href="http
 <strong>I study language - how we learn it and what we do with it.</strong>
 
 I also work on building team science projects that help address key questions in infant development. Some recent work includes <a href="https://peekbank.stanford.edu" target="_blank">Peekbank</a>, an open database of infant eye-tracking data, and <a href="https://manybabies.github.io/MB5/" target="_blank">ManyBabies</a>, cross-lab collaborations testing key empirical questions in infant cognition.
-
-<!--
-<a class="twitter-timeline" data-width="230" data-height="400" href="https://twitter.com/m_zettersten?ref_src=twsrc%5Etfw">Tweets by m_zettersten</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->

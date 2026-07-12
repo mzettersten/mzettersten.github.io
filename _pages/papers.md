@@ -8,7 +8,7 @@ title: papers
 
 #### **UNDER REVIEW**
 
-Boyce, V., Marchman, V. A., Baumgartner, H., Bergey, C. A., Braginsky, M., Giovanetti, F., Kachergis, G., Mankewitz, J., Meylan, S., Prystawski, B., Sparks, R. Z., Steffan, A., Tan, A. W. M., Frank, M. C., \& **Zettersten, M.** (under review). <span style="color: #00ab37">Data-driven recommendations for increasing reliability and validity in measures of infant word recognition.</span> <a href="https://github.com/peekbank/peekbank-method" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://osf.io/preprints/psyarxiv/28gq4){:target="\_blank"}
+Boyce, V., Marchman, V. A., Baumgartner, H., Bergey, C. A., Braginsky, M., Giovanetti, F., Kachergis, G., Mankewitz, J., Meylan, S., Prystawski, B., Sparks, R. Z., Steffan, A., Tan, A. W. M., Frank, M. C., & **Zettersten, M.** (under review). <span style="color: #00ab37">Data-driven recommendations for increasing reliability and validity in measures of infant word recognition.</span> <a href="https://github.com/peekbank/peekbank-method" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://osf.io/preprints/psyarxiv/28gq4){:target="\_blank"}
 
 Madhavan, R., Von Holzen, K., Benavides-Varela, S., Havron, N.,Mayor, J., Pomiechowska, B., **Zettersten, M.**, & Ko, E. S. (under review). <span style="color: #00ab37">A cross-linguistic investigation of infant familiar word recognition across ages - The ManyBabies-AtHome: Looking-While-Listening project.</span> [[preprint]](https://osf.io/preprints/psyarxiv/z5a3j){:target="\_blank"}
 
